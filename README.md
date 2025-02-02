@@ -116,8 +116,8 @@ Following inferences can be drawn from the dashboard;
 ### [5] Customer Demographics  
 
    **Transactions by Gender**:   
-   - Female Customers = 49%   
-   - Male Customers = 50%  
+   - Female Customers = 49,51%   
+   - Male Customers = 50,49%  
 
    This indicates a balanced gender distribution among customers.  
 
